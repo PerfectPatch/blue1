@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander (aka Blue1)
+# 👋 Hi, I'm Alexander (aka Blue1) 
 
 I'm an aspiring **scientist-engineer** at the very beginning of my journey.  
 Right now, I have zero experience — but a lot of drive to build myself from the ground up.
